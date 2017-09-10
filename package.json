@@ -1,5 +1,5 @@
 {
-  "name": "cplus_callback_bind_nodejs_ffi",
+  "name": "nodejs_cplus_callback_bind_ffi",
   "version": "1.0.0",
   "description": "",
   "main": "js/use.js",
