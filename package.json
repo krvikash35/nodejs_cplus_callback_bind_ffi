@@ -1,0 +1,19 @@
+{
+  "name": "cplus_callback_bind_nodejs_ffi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/use.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild",
+    "build": "node-gyp rebuild",
+    "start": "node js/use.js"
+  },
+  "author": "vikash kumar <krvikash35@gmail.com>",
+  "license": "ISC",
+  "gypfile": true,
+  "dependencies": {
+    "ffi": "^2.2.0",
+    "node-gyp": "^3.6.2"
+  }
+}
