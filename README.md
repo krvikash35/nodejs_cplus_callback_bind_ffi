@@ -1,4 +1,4 @@
-# cplus_callback_bind_nodejs_ffi
+# nodejs_cplus_callback_bind_ffi
 
 Simple C/C++ callback binding to Node.JS using addon FFI(foreign feth interface).
 
